@@ -2,8 +2,8 @@
 
 - 🔭 I’m a second year Ph.D. student at Peking University, interested in program analysis and ML for Code.
   
-  <img align="left" alt="GitHub Stats" src="github-readme-stats.deletememoryyy.vercel.app/api?username=DeleteMemoryyy&show_icons=true&hide_border=true&count_private=true" />
-  <img align="left" alt="Languages Stats" src="github-readme-stats.deletememoryyy.vercel.app/api/top-langs/?username=DeleteMemoryyy" />
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.deletememoryyy.vercel.app/api?username=DeleteMemoryyy&show_icons=true&hide_border=true&count_private=true&theme=dark" />
+  <img align="left" alt="Languages Stats" src="https://github-readme-stats.deletememoryyy.vercel.app/api/top-langs/?username=DeleteMemoryyy&theme=dark" />
 
 <!--
 **DeleteMemoryyy/DeleteMemoryyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
