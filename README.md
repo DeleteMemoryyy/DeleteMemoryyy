@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 🌱
+
+🔭 I’m a second year Ph.D. student at Peking University, interested in program analysis and ML for Code.
 
 <!--
 **DeleteMemoryyy/DeleteMemoryyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
