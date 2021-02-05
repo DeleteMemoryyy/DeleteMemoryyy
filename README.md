@@ -2,8 +2,8 @@
 
 - 🔭 I’m a second year Ph.D. student at Peking University, interested in program analysis and ML for Code.
   
-![GitHub stats](https://github-readme-stats-iota-lovat.vercel.app/api?username=DeleteMemoryyy&count_private=true&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats-iota-lovat.vercel.app/api/top-langs/?username=DeleteMemoryyy&layout=compact)](https://github.com/DeleteMemoryyy/github-readme-stats)
+![GitHub stats](https://github-readme-stats-iota-lovat.vercel.app/api?username=DeleteMemoryyy&count_private=true&show_icons=true&theme=ayu-mirage)
+[![Top Langs](https://github-readme-stats-iota-lovat.vercel.app/api/top-langs/?username=DeleteMemoryyy&layout=compact)](https://github.com/DeleteMemoryyy/github-readme-stats&theme=ayu-mirage)
 
 
 <!--
