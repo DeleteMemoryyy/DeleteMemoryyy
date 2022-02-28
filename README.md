@@ -1,11 +1,14 @@
 ### Hi there 🌱
 
-- 🔭 I’m a second year Ph.D. student at Peking University, interested in program analysis and ML for Code.
+- 🔭 I’m a third year Ph.D. student at Peking University, interested in program analysis and ML for Code.
   
-![GitHub stats](https://github-readme-stats-three-jade.vercel.app/api?username=DeleteMemoryyy&count_private=true&show_icons=true&theme=ayu-mirage)
 
 
 <!--
+
+![GitHub stats](https://github-readme-stats-three-jade.vercel.app/api?username=DeleteMemoryyy&count_private=true&show_icons=true&theme=ayu-mirage)
+
+
 **DeleteMemoryyy/DeleteMemoryyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
