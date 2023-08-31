@@ -1,6 +1,6 @@
 ### Hi there 🌱
 
-- 🔭 I’m a third year Ph.D. student at Peking University, interested in program analysis and ML for Code.
+- 🔭 I’m a Ph.D. student at Peking University, interested in program analysis and ML for Code.
   
 
 
